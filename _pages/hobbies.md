@@ -34,4 +34,8 @@ Skiing
 -------
 * Another fun fact I looooove the snow and as I got older my dad got me into skiing and it's so so sooo fun. 
 
+<div style="text-align: center;">
+    <img src="/images/skiing.png" alt="Skiing pic of me" width="500" height="400">
+</div>
+
 
