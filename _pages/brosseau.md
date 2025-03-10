@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/VIDEO_ID" 
+  src="https://youtu.be/cNe_O6W0lws" 
   frameborder="0" allowfullscreen>
 </iframe>
 

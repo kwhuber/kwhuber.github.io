@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resume"
-    url: /files/(CURRENT)Resume_Kaden_Huber_copy.pdf  # formerly publications
+    url: /files/KadenHuberCV.pdf  # formerly publications
 
   - title: "Projects"
     url: /projects/  # formerly talks
