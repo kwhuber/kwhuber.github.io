@@ -8,9 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-##*Between Freeze and Thaw*
+# *Between Freeze and Thaw*
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/QWUoHWnexHA"
   frameborder="0" allowfullscreen>
 </iframe>
+-A mix of media shot on the iPhone 16 and Kodak Pixpro FZ45
+-Shot in Lawrence, KS
+-A take on how perspective transforms
 
