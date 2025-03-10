@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Hobbies"
-permalink: /hobbies/
+title: "Brosseau"
+permalink: /brosseay/
 author_profile: true
 redirect_from:
-  - /hobbies
+  - /brosseau
 ---
 
 {% include base_path %}
