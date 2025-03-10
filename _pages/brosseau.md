@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Brosseau"
-permalink: /brosseay/
+permalink: /brosseau/
 author_profile: true
 redirect_from:
   - /brosseau
