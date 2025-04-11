@@ -26,5 +26,6 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 
 <video width="600" height="400" controls>
   <source src="/videos/campus_activity_prototpye.mov" type="video/quicktime">
+  Your browser does not support the video tag.
 </video>
 
