@@ -5,7 +5,10 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
----
+--
+
+Programming
+-----
 
 {% include base_path %}
 Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projects. Listed below are some of my highlights! 😌 
@@ -18,4 +21,7 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 -------
 * Awarded first place for outstanding open-source contribution
 * Enhanced the README.md of the open-ai whisper library to facilitate seamless implementation
+
+Design
+-----
 
