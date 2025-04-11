@@ -17,6 +17,7 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 
 * Awarded first place for outstanding open-source contribution
 * Enhanced the README.md of the open-ai whisper library to facilitate seamless implementation
+
 --------
 ## Design
 ### Campus Activity App
