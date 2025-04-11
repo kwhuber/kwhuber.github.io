@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
---
+---
 
 Programming
 -----
@@ -24,4 +24,9 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 
 Design
 -----
+Campus Activity App
+-------
+<div style="text-align: center;">
+    <img src="/images/latte_copy.png" alt="Favorite latte" width="500" height="400">
+</div>
 
