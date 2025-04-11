@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-YOOO! Hi and welcome to my website! I am currently a sophomore at the University of Kansas studying computer science and mathematics. This interest started when my family and I came back from a Thanksgiving trip, and there was a blizzard warning in Kansas City. I was fascinated by the swirling snow and the strong winds. In college at KU, I realized that weather and computer science are connected. This made me choose to study programming and math. The mix of these subjects is not just interesting but also has the potential to change how we understand weather.
+Hiya! 
+
+Welcome to my website! I am currently a third-year at the University of Kansas studying computer science, mathematics, and design. 
+
+Outside of class, I am involved with The Spencer Museum of Art and TEDxKU. 
 
 Check out the projects tab to see what I have been working on recently! 
 
-Check out the hobbies tab to see more to see what I like to do outside of programming! 
+Check out the hobbies tab to see more to see what else I enjoy doing outside of academics. 
 
 Relevant Courses at KU
 ===
 
 Programming
 ---
-* EECS 168 
-* EECS 268 
-* EECS 140 
-* EECS 210
-* EECS 348
+EECS 168 | EECS 268 | EECS 140 | EECS 210 | EECS 348 | EECS 447 | EECS 468 | MATH 510 | EECS 565 | EECS 645 | EECS 649 | EECS 678 |
 
 Math 
 ----
