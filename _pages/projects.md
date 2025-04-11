@@ -12,7 +12,6 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 ## Programming
 ### [African Dust Research](https://github.com/kwhuber/African_Dust_Research)
 * Coded models to investigate desert dust storms and their climatic consequences
-
 ### [Hack KU](https://github.com/kwhuber/Hack-KU-2023)
 
 * Awarded first place for outstanding open-source contribution
@@ -21,12 +20,12 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 --------
 ## Design
 ### Campus Activity App
-<div>
-    <img src="/images/campus_sketch.png" alt="Sketch of Campus Activity App" width="450" height="400">
+<div style="display: flex; gap: 20px;">
+  <img src="/images/campus_sketch.png" alt="Sketch of Campus Activity App" width="500" height="400">
+  <video width="500" height="400" controls>
+    <source src="/videos/campus_activity_prototype.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
-<video width="450" height="400" controls>
-  <source src="/videos/campus_activity_prototype.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
