@@ -14,10 +14,10 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 * Coded models to investigate desert dust storms and their climatic consequences
 
 ### [Hack KU](https://github.com/kwhuber/Hack-KU-2023)
---------
+
 * Awarded first place for outstanding open-source contribution
 * Enhanced the README.md of the open-ai whisper library to facilitate seamless implementation
-
+--------
 ## Design
 ### Campus Activity App
 <div>
@@ -25,7 +25,7 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 </div>
 
 <video width="600" height="400" controls>
-  <source src="/videos/campus_activity_prototpye.mov" type="video/quicktime">
+  <source src="/videos/campus_activity_prototype.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
