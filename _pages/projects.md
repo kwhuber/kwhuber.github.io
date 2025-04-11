@@ -22,10 +22,10 @@ Please visit my [GitHub](https://github.com/kwhuber) to explore all of my projec
 ## Design
 ### Campus Activity App
 <div>
-    <img src="/images/campus_sketch.png" alt="Sketch of Campus Activity App" width="600" height="400">
+    <img src="/images/campus_sketch.png" alt="Sketch of Campus Activity App" width="450" height="400">
 </div>
 
-<video width="600" height="400" controls>
+<video width="450" height="400" controls>
   <source src="/videos/campus_activity_prototype.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
